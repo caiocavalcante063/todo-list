@@ -1,0 +1,15 @@
+* {
+  font-size: 10px;
+}
+
+header {
+  font-size: 20px;
+}
+
+.selected {
+  background-color: gray;
+}
+
+.completed {
+  text-decoration: line-through;
+}
